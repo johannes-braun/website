@@ -16,7 +16,7 @@ image_preview = "gfx.png"
 tags = ["Graphics", "Vulkan", "OpenGL", "C++", "Computer Vision", "Research"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://gitlab.uni-koblenz.de/johannesbraun/graphics_utilities"
+external_link = "https://github.com/johannes-braun/graphics_utilities"
 
 # Does the project detail page use math formatting?
 math = false

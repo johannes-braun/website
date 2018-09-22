@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["OpenGL", "C++", "GLSL"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://gitlab.uni-koblenz.de/johannesbraun/glshader"
+external_link = "https://github.com/johannes-braun/GLshader"
 
 # Does the project detail page use math formatting?
 math = false
