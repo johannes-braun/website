@@ -16,15 +16,21 @@ weight = 20
 # See `config.toml` for more info on available icons.
 
 [[feature]]
-  icon = "files-o"
-  icon_pack = "fa"
-  name = "Data Driven"
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Graphics"
   description = "..."
   
 [[feature]]
-  icon = "pencil"
-  icon_pack = "fa"
-  name = "Math"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "..."
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
   description = "..."
 
 +++
